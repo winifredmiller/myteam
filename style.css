@@ -1,0 +1,17 @@
+
+.jumbotron {
+	padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-color: #244A6B;
+}
+img {
+	width:150px;
+}
+
+ h2, h4 {
+  	color: white;
+  }
+  h1{
+  	color: white;
+  }
